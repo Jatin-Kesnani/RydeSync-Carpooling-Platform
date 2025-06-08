@@ -3,6 +3,8 @@
 ## Project Overview
 RydeSync is a web-based carpooling platform designed to connect commuters for shared rides, reducing transportation costs and environmental impact. The system facilitates ride-sharing arrangements through an intuitive interface while fostering community trust among users.
 
+👉 [Click here to view demo](https://www.youtube.com/watch?v=QolxxEn65_A)
+
 ## Architecture
 ![Architecture Diagram](architecture.jpg)
 
